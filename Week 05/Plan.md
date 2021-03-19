@@ -5,3 +5,4 @@
 - Friend classes
 - STL vector
 - STL string
+- Enums
