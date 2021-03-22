@@ -6,3 +6,6 @@
 - STL vector
 - STL string
 - Enums
+- Foreach
+- Auto
+- Scope
