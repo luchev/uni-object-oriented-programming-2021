@@ -4,6 +4,7 @@
 - Testing frameworks
 - Test Driven Development
 - Lambdas
+- Exceptions
 - Design patterns
 - Singleton https://stackoverflow.com/a/1008086
 - Factory methods https://golang.org/pkg/bufio/
